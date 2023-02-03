@@ -29,6 +29,8 @@ Logout
 
 ![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/logout.png?raw=true)
 
+Database
+
 ![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/db.png?raw=true)
 
 
