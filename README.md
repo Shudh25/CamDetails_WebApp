@@ -11,6 +11,30 @@ http://camdetail.epizy.com/login.php
   Username : admin
   Password : password
 ```
+![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/1.png?raw=true)
+
+Fill the given username and password or click on Signup
+
+![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/signup.png?raw=true)
+
+After sucessfull login you will se home page
+
+![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/home.png?raw=true)
+
+![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/gallery.png?raw=true)
+
+![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/about.png?raw=true)
+
+Logout 
+
+![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/logout.png?raw=true)
+
+![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/db.png?raw=true)
+
+
+
+
+
 
 
 # CamDetail Web App
