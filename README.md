@@ -11,9 +11,11 @@ http://camdetail.epizy.com/login.php
   Username : admin
   Password : password
 ```
+Fill the given username and password
+
 ![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/1.png?raw=true)
 
-Fill the given username and password or click on Signup for registering yourself. 
+or click on Signup for registering yourself. 
 
 ![App Screenshot](https://github.com/Shudh25/CamDetails_WebApp/blob/main/Screenshots/signup.png?raw=true)
 
